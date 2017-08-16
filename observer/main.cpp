@@ -8,5 +8,6 @@ int		main() {
 	Example ex1(&sub);
 	Example ex2(&sub);
 
+
 	sub.Notify();
 }
